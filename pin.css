@@ -1,0 +1,41 @@
+.container {
+    column-count: 6;
+    column-gap: 2em;
+    padding: 10px 80px;
+}
+
+.block {
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 16px;
+    display: inline-block;
+    /* margin-left: 5px;
+    margin-right: 5px; */
+}
+
+.hx1 {
+    height: 420px;
+    background-color: cadetblue;
+}
+
+.hx2 {
+    height: 250px;
+    background-color: yellow;
+}
+
+.hx3 {
+    height: 300px;
+    background-color: slategray;
+}
+
+/* .block1 {
+    height: 250px;
+    width: 240px;
+    background-color: lightblue;
+    border-radius: 16px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin: 0;
+
+} */
